@@ -1,4 +1,4 @@
-### Favorite things
+# Favorite things
 ### Concept
 I create a portfolio website based on the HTML/CSS/JAVA Script/ SCSS/ MAMP/ GULP. The work is reacting for designing, coding, and semantically tagging a responsive HTML5 website. The concept of my website is **Oksil Joo's Favorite Things**. The inspiration for my creation comes from me, which is The concept of this work is sports and hobby.
 

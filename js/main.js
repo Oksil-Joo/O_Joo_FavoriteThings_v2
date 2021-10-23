@@ -2,9 +2,7 @@
     const   theFavor = document.querySelector("#favour-things"),
             theTemplate = document.querySelector("#fav-template").content;
   
-    // let buttons = document.querySelectorAll("button");
           
-
     function getData() {
         fetch("./data.json")
         .then(res => res.json()) //unpach the API
@@ -15,16 +13,6 @@
         })
         .catch(error => console.error(error));
     }
-
-//     function showData() {
-        
-//         let key = this.dataset.key;
-
-//         let headline = document.querySelector("h2");
-
-//         headline.textContent = data[key].name;
-// }
-
 
 
     function buildFavor(info) {
@@ -44,8 +32,5 @@
     }
 
     getData();
-
-    // buttons.forEach(button => button.addEventListener("click", showData));
-    
 
 })();
