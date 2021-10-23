@@ -1,0 +1,21 @@
+{
+    "Tennis": {
+        "name":"Tennis",
+        "role":"It's the only exercise I can do.",
+        "desc":"he origin of Tess is attributed to the match called Labomme, which prevailed between European clergy and family members around the 11th century. I learned this exercise for the first time in high school physical education class, and I learned nothing special at that time. However, I came to Canada and started again after seeing many tennis courts in the park, but these days, it has become the only sport that I can easily access and have fun with.",
+        "favoritepic":"tennis.jpg"
+    },
+    "Cook": {
+        "name":"Cook",
+        "role":"I am happiest when I make delicious food.",
+        "desc":"In Korea, delivery food is developed and there are many restaurants nearby that sell my favorite food, so I could eat food easily without cooking. However, I came to Canada and cooked because there were not many restaurants that I liked, but now I am happiest when I cook to share delicious food with my friends and family.",
+        "favoritepic":"cook.jpg"
+    },
+    "Travel": {
+        "name":"Travel",
+        "role":"Traveling makes me excited.",
+        "desc":"Traveling can be a new experience in a strange place, so I have expectations even before I go. Canada, in particular, has a huge land and nature, making it even more exciting. In particular, Niagara Falls and Quebeck, which I have been to, were really unique and beautiful places. So Niagara Falls is not far from where I live today, so I think I got more than twice a year.",
+        "favoritepic":"travel.jpg"
+    }
+
+  }
