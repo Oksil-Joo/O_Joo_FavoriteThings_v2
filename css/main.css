@@ -6,9 +6,11 @@ img, embed, object, video{
 
 .p_name{
     font-family: 'Lobster', cursive;
-    color:aqua;
+    color:#1f6861;
     font-weight: bold;
     font-size: 30px;
+    text-align: center;
+    margin: 20px;
 }
 html{
     box-sizing: border-box;
@@ -19,10 +21,37 @@ html{
     box-sizing: inherit;
 }
 
-a {
-    text-decoration: none;
+#fav-template {
+    width: 80%;
+    align-items: center;
 }
 
-#fav-template {
+img {
+    width: 500px;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    color:#1f6861;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    margin: 20px 50px;
+}
+.p_role {
+    width: 90%;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    margin-left: 10px;
+}
+.p-desc {
+    padding: 10px;
     max-width: 90%;
+    line-height: 1.5;
 }
